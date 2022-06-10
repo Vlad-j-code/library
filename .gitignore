@@ -1,0 +1,7 @@
+.idea/
+test-*
+target/*
+*.log
+.DS_Store
+settings.xml
+testCoverage/*
